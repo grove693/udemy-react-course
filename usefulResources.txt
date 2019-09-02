@@ -1,0 +1,2 @@
+faker - JS library producing mock up data
+semantic ui cdn - css wih predefined styles for variety of usages
