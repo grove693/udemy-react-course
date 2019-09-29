@@ -4,6 +4,33 @@
       "title": "MyStream",
       "description": "description",
       "id": 1
+    },
+    {
+      "title": "Stream creatd",
+      "description": "created by me",
+      "userId": {
+        "isSignedIn": true,
+        "userId": "100621986157044851291"
+      },
+      "id": 2
+    },
+    {
+      "title": "real stream created by me",
+      "description": "real",
+      "userId": "100621986157044851291",
+      "id": 3
+    },
+    {
+      "title": "Programattic Nav",
+      "description": "Prog Navdasdas",
+      "userId": "100621986157044851291",
+      "id": 4
+    },
+    {
+      "title": "COmponent Reuse",
+      "description": "Refactor component",
+      "userId": "100621986157044851291",
+      "id": 5
     }
   ]
 }

@@ -31,6 +31,7 @@ export default (state = {}, action) => {
             return _.omit(state, action.payload);
 
         case FETCH_STREAMS:
+            return {...state,..._.mapKeys(action.payload, 'id')};
             
         default:
                 return state;
